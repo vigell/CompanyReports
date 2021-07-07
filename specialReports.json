@@ -152,36 +152,6 @@
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
-    "Datum": "21/4/2021",
-    "Bolag": "Platzer Fastigheter",
-    "Börsvärde (miljarder kronor)": "12,9",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "Creades",
-    "FIELD11": "Redan rapporterat"
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
-    "Datum": "21/4/2021",
-    "Bolag": "Karo Pharma",
-    "Börsvärde (miljarder kronor)": "11,6",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
-    "FIELD9": "",
-    "FIELD10": "Systemair",
-    "FIELD11": "Brutet räkenskapsår, rapport i juni"
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
     "Datum": "13/7/2021",
     "Bolag": "Nyfosa",
     "Börsvärde (miljarder kronor)": "17,4",
@@ -270,22 +240,7 @@
     "FIELD9": "",
     "FIELD10": "",
     "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
-    "Datum": "22/4/2021",
-    "Bolag": "Fastpartner",
-    "Börsvärde (miljarder kronor)": "17,1",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
+  }, 
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
@@ -298,21 +253,6 @@
     },
     "Kommentar": "Aktien har mer än dubblats på ett år. Hur ser efterfrågan på robotgräsklipparna ut?",
     "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
-    "Datum": "22/4/2021",
-    "Bolag": "Munters",
-    "Börsvärde (miljarder kronor)": "14,0",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
     "FIELD9": "",
     "FIELD10": "",
     "FIELD11": ""
@@ -446,21 +386,6 @@
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
-    "Datum": "22/4/2021",
-    "Bolag": "Gränges",
-    "Börsvärde (miljarder kronor)": "12,6",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
     "Datum": "22/7/2021",
     "Bolag": "Trelleborg",
     "Börsvärde (miljarder kronor)": "61,1",
@@ -586,21 +511,6 @@
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
-    "Datum": "23/4/2021",
-    "Bolag": "HMS Networks",
-    "Börsvärde (miljarder kronor)": "13,4",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
     "Datum": "16/7/2021",
     "Bolag": "Dometic",
     "Börsvärde (miljarder kronor)": "38,1",
@@ -719,21 +629,6 @@
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
-    "Datum": "26/4/2021",
-    "Bolag": "Troax",
-    "Börsvärde (miljarder kronor)": "15,4",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
     "Datum": "9/7/2021",
     "Bolag": "Fabege",
     "Börsvärde (miljarder kronor)": "41,8",
@@ -775,21 +670,6 @@
     "Bolag": "ABB",
     "Börsvärde (miljarder kronor)": "583,0",
     "Typer": { "Vinstskräll": "Vinstskräll", "Dyr": "Dyr" },
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
-    "Datum": "27/4/2021",
-    "Bolag": "Ahlstrom-Munksjö",
-    "Börsvärde (miljarder kronor)": "21,1",
     "Dagens höjdpunkt": {
       "håll koll på": ""
     },
@@ -873,21 +753,6 @@
   {
     "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
     "Antal bolag som rapporterar på datumet": null,
-    "Datum": "27/4/2021",
-    "Bolag": "Billerud Korsnäs",
-    "Börsvärde (miljarder kronor)": "34,5",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
     "Datum": "22/7/2021",
     "Bolag": "Boliden",
     "Börsvärde (miljarder kronor)": "91,8",
@@ -950,21 +815,6 @@
     },
     "Kommentar": "Gjort en storaffär inför rapporten med köpet av kasinospelutvecklaren Big Time Gaming.",
     "Om annan lista än storbolagslistan": "",
-    "FIELD9": "",
-    "FIELD10": "",
-    "FIELD11": ""
-  },
-  {
-    "Totalt börsvärde på rapporterande dag (miljarder kronor)": "",
-    "Antal bolag som rapporterar på datumet": null,
-    "Datum": "27/4/2021",
-    "Bolag": "Bilia",
-    "Börsvärde (miljarder kronor)": "13,7",
-    "Dagens höjdpunkt": {
-      "håll koll på": ""
-    },
-    "Kommentar": "",
-    "Om annan lista än storbolagslistan": "Medelstora bolag",
     "FIELD9": "",
     "FIELD10": "",
     "FIELD11": ""
