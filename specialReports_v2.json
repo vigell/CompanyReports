@@ -1,6 +1,6 @@
 [
  {
-   "datum": "15/10/2021",
+   "Datum": "15/10/2021",
    "Bolag": "Atrium Ljungberg",
    "insref": 3435,
    "Typer": {
@@ -26,7 +26,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "18/10/2021",
+   "Datum": "18/10/2021",
    "Bolag": "Investor",
    "insref": 354,
    "Typer": {
@@ -52,7 +52,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "18/10/2021",
+   "Datum": "18/10/2021",
    "Bolag": "Sandvik",
    "insref": 2956,
    "Typer": {
@@ -78,7 +78,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "18/10/2021",
+   "Datum": "18/10/2021",
    "Bolag": "Avanza",
    "insref": 1294,
    "Typer": {
@@ -104,7 +104,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Beijer Ref",
    "insref": 1503,
    "Typer": {
@@ -130,7 +130,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Castellum",
    "insref": 1686,
    "Typer": {
@@ -156,7 +156,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Ericsson",
    "insref": 772,
    "Typer": {
@@ -182,7 +182,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Tele2",
    "insref": 1862,
    "Typer": {
@@ -208,7 +208,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Fastpartner",
    "insref": 4622427,
    "Typer": {
@@ -234,7 +234,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Kungsleden",
    "insref": 3385,
    "Typer": {
@@ -260,7 +260,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "19/10/2021",
+   "Datum": "19/10/2021",
    "Bolag": "Platzer Fastigheter",
    "insref": 722421,
    "Typer": {
@@ -286,7 +286,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "EQT",
    "insref": 4528561,
    "Typer": {
@@ -312,7 +312,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Getinge",
    "insref": 1588,
    "Typer": {
@@ -338,7 +338,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Handelsbanken",
    "insref": 917,
    "Typer": {
@@ -364,7 +364,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Husqvarna",
    "insref": 3047,
    "Typer": {
@@ -390,7 +390,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Kinnevik",
    "insref": 924,
    "Typer": {
@@ -416,7 +416,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "SEB",
    "insref": 4803,
    "Typer": {
@@ -442,7 +442,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Stora Enso",
    "insref": 5394,
    "Typer": {
@@ -468,7 +468,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "20/10/2021",
+   "Datum": "20/10/2021",
    "Bolag": "Fabege",
    "insref": 2682,
    "Typer": {
@@ -494,7 +494,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "ABB",
    "insref": 730,
    "Typer": {
@@ -520,7 +520,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Atlas Copco",
    "insref": 1279,
    "Typer": {
@@ -546,7 +546,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Epiroc",
    "insref": 3784370,
    "Typer": {
@@ -572,7 +572,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Nordea",
    "insref": 1168,
    "Typer": {
@@ -598,7 +598,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Swedbank",
    "insref": 105,
    "Typer": {
@@ -624,7 +624,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Telia",
    "insref": 928,
    "Typer": {
@@ -650,7 +650,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Volvo",
    "insref": 1146,
    "Typer": {
@@ -676,7 +676,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Axfood",
    "insref": 1291,
    "Typer": {
@@ -702,7 +702,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Intrum",
    "insref": 3266,
    "Typer": {
@@ -728,7 +728,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Mycronic",
    "insref": 3679,
    "Typer": {
@@ -754,7 +754,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "21/10/2021",
+   "Datum": "21/10/2021",
    "Bolag": "Nyfosa",
    "insref": 4060514,
    "Typer": {
@@ -780,7 +780,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Autoliv",
    "insref": 3123908,
    "Typer": {
@@ -806,7 +806,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Boliden",
    "insref": 1360,
    "Typer": {
@@ -832,7 +832,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Essity",
    "insref": 3110542,
    "Typer": {
@@ -858,7 +858,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Holmen",
    "insref": 3013,
    "Typer": {
@@ -884,7 +884,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Lifco",
    "insref": 956382,
    "Typer": {
@@ -910,7 +910,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Billerud Korsnäs",
    "insref": 1514,
    "Typer": {
@@ -936,7 +936,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Dometic",
    "insref": 1217403,
    "Typer": {
@@ -962,7 +962,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Hexpol",
    "insref": 3017,
    "Typer": {
@@ -988,7 +988,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Ratos",
    "insref": 4572,
    "Typer": {
@@ -1014,7 +1014,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Saab",
    "insref": 4608,
    "Typer": {
@@ -1040,7 +1040,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Thule",
    "insref": 958886,
    "Typer": {
@@ -1066,7 +1066,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Wallenstam",
    "insref": 6410,
    "Typer": {
@@ -1092,7 +1092,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "22/10/2021",
+   "Datum": "22/10/2021",
    "Bolag": "Wihlborgs",
    "insref": 6421,
    "Typer": {
@@ -1118,7 +1118,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "25/10/2021",
+   "Datum": "25/10/2021",
    "Bolag": "SSAB",
    "insref": 5361,
    "Typer": {
@@ -1144,7 +1144,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Alfa Laval",
    "insref": 1045,
    "Typer": {
@@ -1170,7 +1170,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "SKF",
    "insref": 1828,
    "Typer": {
@@ -1196,7 +1196,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Afry",
    "insref": 906,
    "Typer": {
@@ -1222,7 +1222,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Betsson",
    "insref": 1508,
    "Typer": {
@@ -1248,7 +1248,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Bravida",
    "insref": 1183669,
    "Typer": {
@@ -1274,7 +1274,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Nent",
    "insref": 4294078,
    "Typer": {
@@ -1300,7 +1300,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Nobia",
    "insref": 3956,
    "Typer": {
@@ -1326,7 +1326,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Resurs",
    "insref": 1396442,
    "Typer": {
@@ -1352,7 +1352,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Sdiptech",
    "insref": 3080792,
    "Typer": {
@@ -1378,7 +1378,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Tietoevry",
    "insref": 107,
    "Typer": {
@@ -1404,7 +1404,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "26/10/2021",
+   "Datum": "26/10/2021",
    "Bolag": "Veoneer",
    "insref": 3801537,
    "Typer": {
@@ -1430,7 +1430,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Assa Abloy",
    "insref": 1192,
    "Typer": {
@@ -1456,7 +1456,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Electrolux",
    "insref": 2193,
    "Typer": {
@@ -1482,7 +1482,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Swedish Match",
    "insref": 5664,
    "Typer": {
@@ -1508,7 +1508,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Arion Banki",
    "insref": 3780630,
    "Typer": {
@@ -1534,7 +1534,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Corem",
    "insref": 3452091,
    "Typer": {
@@ -1560,7 +1560,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Fenix Outdoor",
    "insref": 879031,
    "Typer": {
@@ -1586,7 +1586,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Kindred",
    "insref": 6192,
    "Typer": {
@@ -1612,7 +1612,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Lundin Mining",
    "insref": 3446,
    "Typer": {
@@ -1638,7 +1638,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Pandox",
    "insref": 1095623,
    "Typer": {
@@ -1664,7 +1664,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Peab",
    "insref": 4525,
    "Typer": {
@@ -1690,7 +1690,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "27/10/2021",
+   "Datum": "27/10/2021",
    "Bolag": "Trelleborg",
    "insref": 109,
    "Typer": {
@@ -1716,7 +1716,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Evolution",
    "insref": 1034561,
    "Typer": {
@@ -1742,7 +1742,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Hexagon",
    "insref": 104,
    "Typer": {
@@ -1768,7 +1768,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Ica-Gruppen ",
    "insref": 108,
    "Typer": {
@@ -1794,7 +1794,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Indutrade",
    "insref": 3273,
    "Typer": {
@@ -1820,7 +1820,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Lundin Energy",
    "insref": 356,
    "Typer": {
@@ -1846,7 +1846,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Sagax",
    "insref": 560558,
    "Typer": {
@@ -1872,7 +1872,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Skanska",
    "insref": 360,
    "Typer": {
@@ -1898,7 +1898,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Sobi",
    "insref": 1669,
    "Typer": {
@@ -1924,7 +1924,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Addtech",
    "insref": 902,
    "Typer": {
@@ -1950,7 +1950,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Arjo",
    "insref": 3443467,
    "Typer": {
@@ -1976,7 +1976,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "BHG",
    "insref": 3634284,
    "Typer": {
@@ -2002,7 +2002,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Catena",
    "insref": 1687,
    "Typer": {
@@ -2028,7 +2028,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Electrolux Professional",
    "insref": 2193,
    "Typer": {
@@ -2054,7 +2054,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "JM",
    "insref": 3318,
    "Typer": {
@@ -2080,7 +2080,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Millicom",
    "insref": 3678,
    "Typer": {
@@ -2106,7 +2106,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "28/10/2021",
+   "Datum": "28/10/2021",
    "Bolag": "Nolato",
    "insref": 4030,
    "Typer": {
@@ -2132,7 +2132,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "SBB",
    "insref": 949975,
    "Typer": {
@@ -2158,7 +2158,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "SCA",
    "insref": 4711,
    "Typer": {
@@ -2184,7 +2184,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "Securitas",
    "insref": 4937,
    "Typer": {
@@ -2210,7 +2210,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "Traton",
    "insref": 4426296,
    "Typer": {
@@ -2236,7 +2236,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "Vitrolife",
    "insref": 6315,
    "Typer": {
@@ -2262,7 +2262,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "AAK",
    "insref": 728,
    "Typer": {
@@ -2288,7 +2288,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "Nordnet",
    "insref": 5189405,
    "Typer": {
@@ -2314,7 +2314,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "29/10/2021",
+   "Datum": "29/10/2021",
    "Bolag": "Sweco",
    "insref": 5637,
    "Typer": {
@@ -2340,7 +2340,7 @@
    "FIELD19": "Joker"
 },
  {
-   "datum": "02/11/2021",
+   "Datum": "02/11/2021",
    "Bolag": "Sinch",
    "insref": 1175000,
    "Typer": {
@@ -2366,7 +2366,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "02/11/2021",
+   "Datum": "02/11/2021",
    "Bolag": "NCC",
    "insref": 3788,
    "Typer": {
@@ -2392,7 +2392,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "03/11/2021",
+   "Datum": "03/11/2021",
    "Bolag": "Loomis",
    "insref": 3440,
    "Typer": {
@@ -2418,7 +2418,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "03/11/2021",
+   "Datum": "03/11/2021",
    "Bolag": "Medicover",
    "insref": 3094990,
    "Typer": {
@@ -2444,7 +2444,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "04/11/2021",
+   "Datum": "04/11/2021",
    "Bolag": "Hemnet",
    "insref": 5421330,
    "Typer": {
@@ -2470,7 +2470,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "09/11/2021",
+   "Datum": "09/11/2021",
    "Bolag": "Latour",
    "insref": 3411,
    "Typer": {
@@ -2496,7 +2496,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "09/11/2021",
+   "Datum": "09/11/2021",
    "Bolag": "Cint",
    "insref": 5315210,
    "Typer": {
@@ -2522,7 +2522,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "10/11/2021",
+   "Datum": "10/11/2021",
    "Bolag": "Stillfront",
    "insref": 1224945,
    "Typer": {
@@ -2548,7 +2548,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "11/11/2021",
+   "Datum": "11/11/2021",
    "Bolag": "Balder",
    "insref": 1495,
    "Typer": {
@@ -2574,7 +2574,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "11/11/2021",
+   "Datum": "11/11/2021",
    "Bolag": "Bure",
    "insref": 1667,
    "Typer": {
@@ -2600,7 +2600,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "11/11/2021",
+   "Datum": "11/11/2021",
    "Bolag": "Hufvudstaden",
    "insref": 3019,
    "Typer": {
@@ -2626,7 +2626,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "12/11/2021",
+   "Datum": "12/11/2021",
    "Bolag": "Astrazeneca",
    "insref": 1295,
    "Typer": {
@@ -2652,7 +2652,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "17/11/2021",
+   "Datum": "17/11/2021",
    "Bolag": "Nibe",
    "insref": 3947,
    "Typer": {
@@ -2678,7 +2678,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "24/11/2021",
+   "Datum": "24/11/2021",
    "Bolag": "Lundbergs",
    "insref": 3448,
    "Typer": {
@@ -2704,7 +2704,7 @@
    "FIELD19": ""
 },
  {
-   "datum": "25/11/2021",
+   "Datum": "25/11/2021",
    "Bolag": "Elekta",
    "insref": 2327,
    "Typer": {
